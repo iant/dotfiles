@@ -1,5 +1,5 @@
 # Editor
-export EDITOR='nano'
+#export EDITOR='nano'
 
 # Paths
 export PATH="./bin:$HOME/bin:$HOME/.rbenv/plugins/ruby-build/bin:/usr/local/heroku/bin:/usr/local/foreman/bin:/usr/local/bin:$HOME/Code/go/bin:$PATH"

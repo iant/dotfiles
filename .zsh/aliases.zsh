@@ -4,12 +4,14 @@ alias ...='cd ../..'
 alias ,,='cd ..'
 alias ,,,='cd ../..'
 
+
 # ls
 alias ls="ls -F"
 
 # Git
 alias gsu='git submodule update --init --recursive'
 alias gs='git status'
+alias gd="git diff"
 compdef _git gs=git-status
 alias gut='git'
 
@@ -18,7 +20,7 @@ alias s='subl .'
 
 # Rails
 alias tlog='tail -f log/development.log'
-alias b='bundle exec'
+alias bx="bundle exec"
 alias bake='bundle exec rake'
 alias rr='rbenv rehash'
 alias bm='bin/m'
