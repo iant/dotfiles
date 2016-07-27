@@ -1,6 +1,6 @@
-# ~soffes
+# ~bshakr
 
-Based on [Ryan Bates](http://github.com/ryanb/dotfiles), [Ryan Tomayko](http://github.com/rtomayko/dotfiles), and [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh).
+Based on [Sam Soffes](http://github.com/soffes/dotfiles), [Ryan Bates](http://github.com/ryanb/dotfiles), [Ryan Tomayko](http://github.com/rtomayko/dotfiles), and [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh).
 
 ## Environment
 
